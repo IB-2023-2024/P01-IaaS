@@ -238,7 +238,7 @@ Consulte para ello las instrucciones
 cd
 mkdir practicas
 cd practicas
-git clone git@github.com:IB-2022-2023/P01-IaaS.git 2022-2023-IB-P01-EntornoIaaS
+git clone git@github.com:IB-2023-2024/P01-IaaS.git 2023-2024-IB-P01-EntornoIaaS
 ```
 
 #### Edición y compilación
